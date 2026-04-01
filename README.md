@@ -35,6 +35,15 @@ Gosto de entender o problema antes de sair codando — pensar em estrutura, orga
 
 ---
 
+## GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ricardo-9&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-9&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
 ##  Projeto principal
 
 ###  My Accountability Buddy
