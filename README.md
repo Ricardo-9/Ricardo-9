@@ -39,7 +39,7 @@ Gosto de entender o problema antes de sair codando — pensar em estrutura, orga
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ricardo-9&theme=github_dark"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ricardo-9&theme=github_dark"/>
----
+
 
 ##  Projeto principal
 
